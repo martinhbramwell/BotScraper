@@ -1,0 +1,22 @@
+{
+  "name": "botscraper",
+  "version": "1.0.0",
+  "description": "Puppeteer code to screen scrape crypto exchanges for data not available from their API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/martinhbramwell/BotScraper.git"
+  },
+  "author": "Martin H. Bramwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinhbramwell/BotScraper/issues"
+  },
+  "homepage": "https://github.com/martinhbramwell/BotScraper#readme",
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}
